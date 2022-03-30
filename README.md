@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eizen1
 - 👀 I’m interested in job with development.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODEJS and REACT.JS
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 - 📫 How to reach me IGORSTRAKI@GMAIL.COM
 
 <br><br>
@@ -14,9 +14,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
