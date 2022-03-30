@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eizen1
-- 👀 I’m interested in job with development.
+- 👀 I’m interested in job with development front-end.
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 - 📫 How to reach me IGORSTRAKI@GMAIL.COM
 
