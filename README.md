@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eizen1
-- 👀 I’m interested in job with development front-end.
+- 👋 Hi, I’m Igor
+- 👀 I’m interested in job with development full-stack.
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS and React.js**
 - 📫 How to reach me IGORSTRAKI@GMAIL.COM
 
